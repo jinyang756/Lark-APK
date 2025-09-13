@@ -1,1 +1,3 @@
-"# my-app-releases" 
+# APK文件
+
+此目录包含APK安装文件。
